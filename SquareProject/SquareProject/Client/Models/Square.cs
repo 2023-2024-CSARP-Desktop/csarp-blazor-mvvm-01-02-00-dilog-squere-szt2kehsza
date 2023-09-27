@@ -39,5 +39,6 @@
         {
             return $"{Side} méter a négyzet oldala.\nKerülete {Area}.\nTerülete {Area}.";
         }
+
     }
 }
